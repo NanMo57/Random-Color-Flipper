@@ -7,5 +7,5 @@ Hex and Simple Color Modes – Toggle between showing the color in Hex or simple
 Dynamic Color Conversion – Converts simple color names to Hex using the Chroma.js library.
 Interactive UI – Active states for toggling between Hex and Simple Color views.
 
-🔗 [Live Demo (if available)]
+🔗 [Live Demo (https://nanmo57.github.io/Random-Color-Flipper/)]
 📌 Contributions & suggestions are welcome! 🚀
